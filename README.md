@@ -121,6 +121,7 @@ Each scenario has a corresponding visualization folder in the repository (`viz_s
 
 ```bash
 python3 viz_slots.py
+```
 
 ### Requirements
 - **SWI-Prolog** (`swipl` must be available in the terminal)
