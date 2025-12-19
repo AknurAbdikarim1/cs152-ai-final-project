@@ -119,6 +119,9 @@ Each scenario has a corresponding visualization folder in the repository (`viz_s
 
 ## How to Run the Project
 
+```bash
+python3 viz_slots.py
+
 ### Requirements
 - **SWI-Prolog** (`swipl` must be available in the terminal)
 - **Python 3**
