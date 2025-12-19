@@ -86,8 +86,6 @@ viz_s3/
 viz_s4/
 
 
-This file exists so the planner’s behavior is **easy to understand and explain**, not just correct.
-
 ---
 
 ## Test Scenarios
